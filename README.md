@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Debian Kde Plasma Config](https://github.com/samwhelp/debian-kde-plasma-adjustment/tree/main/prototype/main/kde-config/Main) |
+| [Debian Kde Plasma Config](https://github.com/samwhelp/debian-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
 
 
 
