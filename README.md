@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Debian Kde Plasma Config](https://github.com/samwhelp/debian-kde-plasma-adjustment/tree/main/prototype/main/kde-plasma-config/Main) |
+| [Debian Kde Plasma Config](https://github.com/samwhelp/debian-kde-plasma-adjustment/tree/main/prototype/main/kde-config/Main) |
 
 
 
